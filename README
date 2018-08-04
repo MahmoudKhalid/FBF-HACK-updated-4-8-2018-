@@ -4,5 +4,5 @@ Running on python3
 Use help command for display help menu
 For execute script use this command in terminal 'python3 FBF-HACK.py' not './FBF-HACK.py'
 
-You can using crunsh tool for build phone of numbers 
+You can using crunch tool for build phone of numbers 
 EX : crunch 11 11 0123456789 -t 010%5%%60%% -o phonenumbers.txt
